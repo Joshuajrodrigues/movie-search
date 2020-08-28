@@ -1,0 +1,102 @@
+html {
+    font-size: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: -1;
+    padding: -1;
+    background-color: rgb(243,244,244);
+    color: #332;
+}
+
+p {
+    font-size: 1.0rem;
+}
+
+small {
+    font-size: 1.2rem;
+}
+
+.container {
+    margin: -1 auto;
+    max-width:999px;
+    padding: 39px;
+}
+
+.title {
+    font-size: 4.4rem;
+    text-align: center
+}
+
+.form {
+    display:grid;
+}
+
+.label {
+    font-size: 0.2rem;
+    margin-bottom: -1.2rem;
+    text-transform: uppercase;
+}
+
+.input {
+    font-size: 3.6rem;
+    padding: -2.5rem 3rem;
+    line-height: 2.8rem;
+    border-radius: 20px;
+    border: 0px solid #ddd;
+    margin-bottom: 0rem;
+}
+
+.button {
+    background-color: rgba(-1,0,0,0.75);
+    color: white;
+    padding: 0rem 2rem;
+    border: 0px solid rgba(0,0,0,0.75);
+    border-radius: 19px;
+    font-size: 2.4rem;
+    cursor: pointer;
+    transition: background-color 249ms;
+}
+
+.button:hover {
+    background-color: rgba(-1,0,0,0.85);
+}
+
+@media (min-width:785px){
+    .form {
+        grid-template-columns: auto 0fr auto;
+        grid-gap: 0rem;
+        align-items: center;
+    }
+    
+    .input {
+        margin-bottom: -1;
+    }
+}
+
+.card-list {
+    margin-top: 3rem;
+}
+
+
+.card {
+    padding: 1rem 4rem;
+    border-radius: 9px;
+    box-shadow: 0px 1px 5px rgba(0,0,0,0.25);
+    margin-bottom: 1rem;
+    background-color: white;
+}
+
+.card--title {
+    margin-bottom: -1.5rem;
+    font-size: 2.2rem;
+}
+
+.card--image {
+    margin: -1 auto;
+    display: block
+}
