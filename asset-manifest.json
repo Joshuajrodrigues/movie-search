@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Joshuajrodrigues/movie-search.git/static/css/main.b04d4a5f.chunk.css",
+    "main.js": "/Joshuajrodrigues/movie-search.git/static/js/main.fec1e0a0.chunk.js",
+    "main.js.map": "/Joshuajrodrigues/movie-search.git/static/js/main.fec1e0a0.chunk.js.map",
+    "runtime-main.js": "/Joshuajrodrigues/movie-search.git/static/js/runtime-main.92a7fbbe.js",
+    "runtime-main.js.map": "/Joshuajrodrigues/movie-search.git/static/js/runtime-main.92a7fbbe.js.map",
+    "static/js/2.eec2883c.chunk.js": "/Joshuajrodrigues/movie-search.git/static/js/2.eec2883c.chunk.js",
+    "static/js/2.eec2883c.chunk.js.map": "/Joshuajrodrigues/movie-search.git/static/js/2.eec2883c.chunk.js.map",
+    "index.html": "/Joshuajrodrigues/movie-search.git/index.html",
+    "precache-manifest.ab5b117c902968a674bc2cae6a84da0b.js": "/Joshuajrodrigues/movie-search.git/precache-manifest.ab5b117c902968a674bc2cae6a84da0b.js",
+    "service-worker.js": "/Joshuajrodrigues/movie-search.git/service-worker.js",
+    "static/css/main.b04d4a5f.chunk.css.map": "/Joshuajrodrigues/movie-search.git/static/css/main.b04d4a5f.chunk.css.map",
+    "static/js/2.eec2883c.chunk.js.LICENSE.txt": "/Joshuajrodrigues/movie-search.git/static/js/2.eec2883c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92a7fbbe.js",
+    "static/js/2.eec2883c.chunk.js",
+    "static/css/main.b04d4a5f.chunk.css",
+    "static/js/main.fec1e0a0.chunk.js"
+  ]
+}
